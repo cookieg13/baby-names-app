@@ -70,3 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # baby-names-react-app
 # baby-names-react-app
+
+
+<img width="1728" alt="Screenshot 2022-06-25 at 19 03 18" src="https://user-images.githubusercontent.com/88573135/175775843-dec257cd-c32c-4285-9e18-cf7ac8ca620d.png">
+<img width="1728" alt="Screenshot 2022-06-25 at 19 03 06" src="https://user-images.githubusercontent.com/88573135/175775849-0b3336d2-b4c6-48e2-941a-e50ec2ee9ff6.png">
+
+<img width="1728" alt="Screenshot 2022-06-25 at 19 03 31" src="https://user-images.githubusercontent.com/88573135/175775838-ffa2609b-7f3b-4c41-a5e9-97132cd52540.png">
+
+
+
